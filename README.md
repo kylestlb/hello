@@ -1,2 +1,2 @@
 # hello
-Go hello world
+Go hello world - playing around with Go tutorials and such.
